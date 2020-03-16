@@ -1,6 +1,0 @@
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\bin\Debug\GitHub.exe.config
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\bin\Debug\GitHub.exe
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\bin\Debug\GitHub.pdb
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\obj\Debug\GitHub.csprojResolveAssemblyReference.cache
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\obj\Debug\GitHub.exe
-c:\users\guttapa\documents\visual studio 2013\Projects\GitHub\GitHub\obj\Debug\GitHub.pdb
